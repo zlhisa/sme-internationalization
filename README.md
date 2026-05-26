@@ -16,11 +16,11 @@ This project draws on signaling theory and brand authenticity literature. AI dis
 
 ## Data
 
-The analysis uses firm-level data from WRDS / Compustat Global.
+The analysis uses primary data collected via an online survey experiment with Austrian consumers (target: 240-320 participants).
 
 ## Empirical Strategy
 
-ROA = beta0 + beta1 Firm Size + error
+The hypothesis will be tested using an experimental vignette methodology (EVM) with a 2x2 between-subjects design, contrasting human vs. AI-attributed communication across SME and MNE contexts.
 
 ## Project Structure
 
